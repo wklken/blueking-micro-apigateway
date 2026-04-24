@@ -1,0 +1,26 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "5f0943337290129cc508b0763ef68eb1fb7d4ccf",
+  "prompts": {
+    "6fd1bd403392893b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63faa3ed-7dd2-4cca-9546-5deda4fef0a3",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
