@@ -1,0 +1,42 @@
+src/apiserver/pkg/utils/schema/AGENTS.md
+  h_9e143da0eb081a 1-64,66,68-70,72-87,89-93,95-107
+  beb986716ba6b9a2 65,67,71,88,94,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "6d974f9f932673a68e6fed513c7880103ee4c160",
+  "prompts": {
+    "6dd02303925f1322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "62df8f2b-2b87-44fe-a134-42fb8d5c222a",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "beb986716ba6b9a2": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "534e5436-ed04-4028-92b1-d07eccbc7efd",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 6,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
