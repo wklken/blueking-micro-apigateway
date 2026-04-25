@@ -1,0 +1,41 @@
+src/apiserver/pkg/apis/web/serializer/common.go
+  049d6f7b26f808f3 27,58-62,66,69,75-78,86,104-105,123-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "38b5cb3521472a65e417b36a1550cb6ca1850854",
+  "prompts": {
+    "049d6f7b26f808f3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dc2c7-2cfd-7aa2-8631-f981888212c7",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 32,
+      "total_deletions": 9,
+      "accepted_lines": 32,
+      "overriden_lines": 0
+    },
+    "5d0c7df4fb5d4cfb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f1fd425-5f1e-45df-9094-234fb1c6db6c",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
