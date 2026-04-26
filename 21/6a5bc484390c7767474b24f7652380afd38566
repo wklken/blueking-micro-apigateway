@@ -1,0 +1,191 @@
+src/apiserver/pkg/apis/common/resource_slz.go
+  8e73d70742eb2a41 34,111-127,257,328,338-360
+  a023cc4a07d9f6dd 106-110
+specs/001-config-validation-refactor/spec.md
+  8e73d70742eb2a41 1-128
+src/apiserver/pkg/apis/web/serializer/common_test.go
+  8e73d70742eb2a41 22-23,25-26,30-32,34-37,101-107,167-186,191-296,300-338
+  a023cc4a07d9f6dd 297-299
+src/apiserver/pkg/utils/testing/validation_cases.go
+  8e73d70742eb2a41 1-109
+src/apiserver/pkg/resourcecodec/common.go
+  8e73d70742eb2a41 1-50,86-293,295-303,305-353,355-394
+  a023cc4a07d9f6dd 51-85,294,304,354
+src/apiserver/pkg/entity/model/common.go
+  8e73d70742eb2a41 177-179,185-187,193-195,201-203,209-212,217-219,244
+  a023cc4a07d9f6dd 27,31,50-155
+src/apiserver/pkg/entity/model/route_test.go
+  a023cc4a07d9f6dd 30-34,36-55
+  8e73d70742eb2a41 83-95
+src/apiserver/pkg/apis/common/resource_slz_test.go
+  a023cc4a07d9f6dd 47-49,94-96,126-130
+  8e73d70742eb2a41 1-46,50-93,97-125,131-135
+src/apiserver/pkg/constant/resource_schema.go
+  8e73d70742eb2a41 121-135
+src/apiserver/pkg/middleware/openapi_resource_check_test.go
+  a023cc4a07d9f6dd 273-275
+  8e73d70742eb2a41 1-272,276-376
+src/apiserver/pkg/resourcecodec/common_test.go
+  8e73d70742eb2a41 1-156,160-205,209-336,365-392
+  a023cc4a07d9f6dd 157-159,206-208,337-364
+src/apiserver/pkg/resourcecodec/openapi.go
+  8e73d70742eb2a41 1-56
+src/apiserver/pkg/resourcecodec/validation.go
+  a023cc4a07d9f6dd 23-24,48-55,70-94,149-160,172
+  8e73d70742eb2a41 1-22,25-47,56-69,95-148,161-171,173
+src/apiserver/pkg/resourcecodec/materialize.go
+  a023cc4a07d9f6dd 23,50-54,66,68,70,252
+  8e73d70742eb2a41 1-22,24-49,55-65,67,69,71-251,253-254
+src/apiserver/pkg/entity/model/plugin_metadata_test.go
+  a023cc4a07d9f6dd 27,34-40,45,56
+  8e73d70742eb2a41 44,46-55,57
+src/apiserver/pkg/resourcecodec/legacy_test.go
+  8e73d70742eb2a41 1-25,27-48,56-70,74-81,91-105,110-111,113-120,124-130
+  a023cc4a07d9f6dd 26,49-55,71-73,82-90,106-109,112,121-123
+AGENTS.md
+  8e73d70742eb2a41 10-15
+src/apiserver/README.md
+  8e73d70742eb2a41 15-43
+specs/001-config-validation-refactor/checklists/requirements.md
+  8e73d70742eb2a41 1-36
+src/apiserver/pkg/entity/model/stream_route_test.go
+  8e73d70742eb2a41 1-28,30-33,43-82
+  a023cc4a07d9f6dd 29,34-42
+src/apiserver/pkg/entity/model/upstream_test.go
+  8e73d70742eb2a41 61-69
+  a023cc4a07d9f6dd 27,34-38
+src/apiserver/pkg/entity/model/ssl_test.go
+  a023cc4a07d9f6dd 24,29-36
+  8e73d70742eb2a41 1-23,25-28,37-61
+src/apiserver/pkg/entity/model/sync_resource.go
+  a023cc4a07d9f6dd 38-48
+  8e73d70742eb2a41 62-64,70-72,78-80,86-88,94-96,107-109,115-117
+src/apiserver/pkg/biz/publish.go
+  8e73d70742eb2a41 30,596-607,609-638,855-869,873,924-939,975-976,978-988,992,1030-1040,1044,1077-1087,1091,1124-1134,1138,1179-1189,1193,1224-1234,1238,1272-1282,1286,1316-1326,1330,1372-1385,1389
+  a023cc4a07d9f6dd 608
+docs/DEVELOP_GUIDE.md
+  8e73d70742eb2a41 17-25
+specs/001-config-validation-refactor/contracts/validation-compatibility.md
+  8e73d70742eb2a41 1-51
+src/apiserver/pkg/entity/model/consumer_test.go
+  a023cc4a07d9f6dd 28,35-40
+  8e73d70742eb2a41 82-90
+src/apiserver/pkg/apis/open/handler/resource_create_test.go
+  eba8343eaf1e1991 1-108
+src/apiserver/pkg/apis/web/serializer/common.go
+  8e73d70742eb2a41 32,59-73,75-80,83-86,140-175
+  a023cc4a07d9f6dd 74
+src/apiserver/pkg/publisher/etcd_test.go
+  8e73d70742eb2a41 26,45-115
+specs/001-config-validation-refactor/tasks.md
+  8e73d70742eb2a41 1-49,58-60,62-74,78-80,89-101,106-108,113-121,126-234
+  a023cc4a07d9f6dd 50-57,61,75-77,81-88,102-105,109-112,122-125
+specs/001-config-validation-refactor/quickstart.md
+  8e73d70742eb2a41 1-88
+src/apiserver/pkg/entity/model/service_test.go
+  a023cc4a07d9f6dd 28,35-40
+  8e73d70742eb2a41 82-90
+src/apiserver/pkg/apis/mcp/tools/resource_crud.go
+  8e73d70742eb2a41 34,293-308,322-329,386-402,428-442
+src/apiserver/pkg/resourcecodec/legacy.go
+  a023cc4a07d9f6dd 25-29,65-93
+  8e73d70742eb2a41 1-24,30-64,94
+specs/001-config-validation-refactor/research.md
+  8e73d70742eb2a41 1-59
+src/apiserver/pkg/apis/open/serializer/resource.go
+  eba8343eaf1e1991 62-69,72-86,120-132
+  8e73d70742eb2a41 31,88-101,104-113,185-194,196-210,212-221
+  a023cc4a07d9f6dd 195
+src/apiserver/pkg/biz/common.go
+  8e73d70742eb2a41 41,1029-1030,1036-1041,1068-1084
+  a023cc4a07d9f6dd 68-122,180-187,198-242,445,450-453,459-462,470,478,543,545-548,742,745-748,753-756,765,775,855,860-863,891
+specs/001-config-validation-refactor/data-model.md
+  8e73d70742eb2a41 1-138
+src/apiserver/pkg/apis/open/serializer/resource_test.go
+  8e73d70742eb2a41 1-125
+src/apiserver/pkg/biz/common_test.go
+  8e73d70742eb2a41 22,36-37,43-207,232,256,258
+  a023cc4a07d9f6dd 29,35,39,208-231,233-255,257,423-536
+src/apiserver/pkg/biz/publish_test.go
+  8e73d70742eb2a41 23-24,28,30,34,839-963
+src/apiserver/pkg/entity/model/proto_test.go
+  a023cc4a07d9f6dd 29,34-40
+  8e73d70742eb2a41 1-28,30-33,41-47
+specs/001-config-validation-refactor/plan.md
+  8e73d70742eb2a41 1-136
+src/apiserver/pkg/middleware/openapi_resource_check.go
+  a023cc4a07d9f6dd 169
+  8e73d70742eb2a41 38,152-166,170-176,241-246
+  eba8343eaf1e1991 50-66,140,168,235-236
+src/apiserver/pkg/resourcecodec/types.go
+  8e73d70742eb2a41 1-95
+src/apiserver/pkg/utils/testing/validation_fixtures.go
+  8e73d70742eb2a41 1-40,47-91,178-179
+  a023cc4a07d9f6dd 41-46,92-177
+src/apiserver/pkg/resourcecodec/doc.go
+  8e73d70742eb2a41 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "216a5bc484390c7767474b24f7652380afd38566",
+  "prompts": {
+    "32d9393eb53f84f4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2c5721a7-f598-43c1-9818-21837bbf8a2d",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "8e73d70742eb2a41": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dc919-5b94-7ef2-8a80-c658fc00ce9c",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 4532,
+      "total_deletions": 378,
+      "accepted_lines": 4417,
+      "overriden_lines": 0
+    },
+    "a023cc4a07d9f6dd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dc916-8962-7190-91ad-1af3a1019524",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 913,
+      "total_deletions": 195,
+      "accepted_lines": 860,
+      "overriden_lines": 0
+    },
+    "eba8343eaf1e1991": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dc9f7-3649-71c0-bb18-cf17d190a010",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 170,
+      "total_deletions": 12,
+      "accepted_lines": 170,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
