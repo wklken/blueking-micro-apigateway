@@ -1,0 +1,48 @@
+src/apiserver/pkg/apis/web/serializer/common_test.go
+  4062b782b97f383f 248
+src/apiserver/pkg/resourcecodec/legacy.go
+  4062b782b97f383f 52-54,57-59
+src/apiserver/pkg/resourcecodec/legacy_test.go
+  4062b782b97f383f 41,80,96-113
+src/apiserver/pkg/entity/model/common.go
+  4062b782b97f383f 134
+src/apiserver/pkg/resourcecodec/common_test.go
+  4062b782b97f383f 149
+src/apiserver/pkg/biz/publish.go
+  4062b782b97f383f 608
+src/apiserver/pkg/biz/common_test.go
+  4062b782b97f383f 216
+src/apiserver/pkg/resourcecodec/common.go
+  4062b782b97f383f 76,85,109-110,114,122,132-134,155,247,263,282
+src/apiserver/pkg/resourcecodec/stored.go
+  4062b782b97f383f 32,91-95,154,168
+src/apiserver/pkg/resourcecodec/types.go
+  4062b782b97f383f 40
+src/apiserver/AGENTS.md
+  4062b782b97f383f 302,319,321,337,425,428,449,455,464,466
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "ffb4d2141e739eb5ea03368ce73132348d56fd2f",
+  "prompts": {
+    "4062b782b97f383f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0832b22a-ed41-41f4-9d93-d27da3c718b9",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 63,
+      "total_deletions": 97,
+      "accepted_lines": 63,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
