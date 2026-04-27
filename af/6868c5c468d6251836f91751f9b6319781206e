@@ -1,0 +1,289 @@
+src/apiserver/pkg/biz/legacy_normalization_test.go
+  b2c16118024bea40 1-102
+src/apiserver/pkg/biz/plugin_config.go
+  b2c16118024bea40 74,125-131,164,176-179
+  703e3b61719acc6e 71-73,110-124,132-135,161-163,170-175
+src/apiserver/pkg/biz/stream_route.go
+  b2c16118024bea40 74,156-162,200,212-215
+  703e3b61719acc6e 71-73,128-150,152-155,163-166,197-199,206-211
+src/apiserver/pkg/entity/model/upstream_test.go
+  7bb27e58702f4b1e 27
+src/apiserver/pkg/biz/service.go
+  703e3b61719acc6e 71-73,120-135,143-146,173-175,182-187
+  b2c16118024bea40 74,136-142,176,188-191
+src/apiserver/pkg/biz/common.go
+  b2c16118024bea40 451-457,521,537,548,746,791,802-805,882,903,915-921
+  h_9e143da0eb081a 553
+  703e3b61719acc6e 441-450,458-459,518-520,533-536,538-547,549-551,743-745,787-790,792-801,806-807,879-881,899-902,904-914,922-923
+  a8c423aa41307761 554-562
+src/apiserver/pkg/resourcecodec/stored.go
+  b2c16118024bea40 254
+src/apiserver/pkg/entity/model/ssl_test.go
+  7bb27e58702f4b1e 24
+src/apiserver/pkg/entity/model/plugin_config_test.go
+  7bb27e58702f4b1e 27
+src/apiserver/pkg/biz/consumer_group.go
+  703e3b61719acc6e 71-73,110-124,132-135,161-163,170-175
+  b2c16118024bea40 74,125-131,164,176-179
+src/apiserver/pkg/apis/web/handler/consumer.go
+  703e3b61719acc6e 189,245
+  b2c16118024bea40 62-81,84,130-149,152
+src/apiserver/pkg/biz/ssl.go
+  b2c16118024bea40 77,128-134,187,199-202
+  703e3b61719acc6e 74-76,113-127,135-138,184-186,193-198
+src/apiserver/pkg/entity/model/common.go
+  703e3b61719acc6e 60-65,71-76,78-79,82-83,85-90
+  a8c423aa41307761 58-59,68-70,80-81
+  b2c16118024bea40 50-55,93,136
+src/apiserver/pkg/entity/model/plugin_metadata.go
+  b2c16118024bea40 45,69,107,124
+  h_9e143da0eb081a 108-116,125-131,136
+src/apiserver/pkg/apis/web/handler/proto.go
+  703e3b61719acc6e 167,255
+  b2c16118024bea40 59-73,75-80,123-137,139-144
+src/apiserver/pkg/biz/operation_audit_log.go
+  h_9e143da0eb081a 62,205
+  b2c16118024bea40 55-61,198-204,206-212
+src/apiserver/pkg/entity/model/service.go
+  h_9e143da0eb081a 88-96,105-111,116,121
+  b2c16118024bea40 87,104
+src/apiserver/AGENTS.md
+  b2c16118024bea40 320-321,326,328,453-459,461,463,468,489
+  b8fc01de59a8d9c6 309,313,318-319,323-325,337-338,460,482,488
+  a8c423aa41307761 486
+src/apiserver/pkg/apis/web/handler/route.go
+  b2c16118024bea40 61-70,72-79,81-86,134-143,145-157,160-164
+  703e3b61719acc6e 201,261
+src/apiserver/pkg/apis/web/handler/ssl.go
+  703e3b61719acc6e 254,308
+  b2c16118024bea40 112-130,195-214
+src/apiserver/pkg/biz/consumer.go
+  b2c16118024bea40 74,136-142,176,188-191
+  703e3b61719acc6e 71-73,120-135,143-146,173-175,182-187
+src/apiserver/pkg/entity/model/projection_fields_test.go
+  b2c16118024bea40 25-166
+src/apiserver/pkg/entity/model/proto.go
+  b2c16118024bea40 80-83,91-100,103
+src/apiserver/pkg/biz/upstream.go
+  b2c16118024bea40 74,125-131,165,177-180
+  703e3b61719acc6e 71-73,110-124,132-135,162-164,171-176
+src/apiserver/pkg/apis/web/handler/resource_common.go
+  b2c16118024bea40 1-73
+src/apiserver/pkg/apis/web/handler/consumer_group.go
+  b2c16118024bea40 62-81,84,129-148,151
+  703e3b61719acc6e 188,242
+src/apiserver/pkg/apis/common/resource_slz_test.go
+  b2c16118024bea40 55,71,86,103
+  a8c423aa41307761 42
+src/apiserver/pkg/entity/model/global_rule.go
+  b2c16118024bea40 87,98
+  h_9e143da0eb081a 88-90,99-105,110
+src/apiserver/pkg/entity/model/plugin_config.go
+  h_9e143da0eb081a 88-90,99-105,110
+  b2c16118024bea40 87,98
+src/apiserver/pkg/entity/model/stream_route_test.go
+  7bb27e58702f4b1e 29
+src/apiserver/pkg/apis/open/handler/resource.go
+  b2c16118024bea40 97-98
+  703e3b61719acc6e 123,203
+src/apiserver/pkg/entity/model/consumer_test.go
+  7bb27e58702f4b1e 28
+src/apiserver/pkg/apis/mcp/tools/resource_crud_test.go
+  a8c423aa41307761 185
+  b2c16118024bea40 22-23,26,28-34,37-107,109-116,119,121-166,168-182,186-187,189-199,201-215
+src/apiserver/pkg/biz/plugin_metadata.go
+  b2c16118024bea40 73,112-118,151,163-166
+  703e3b61719acc6e 70-72,98-111,119-122,148-150,157-162
+src/apiserver/pkg/apis/common/resource_builder.go
+  b2c16118024bea40 1-28,30-56,58-79,81-104,106-107
+  a8c423aa41307761 29,57,80,105
+src/apiserver/pkg/biz/common_test.go
+  a8c423aa41307761 423
+src/apiserver/pkg/entity/model/consumer_group_test.go
+  7bb27e58702f4b1e 27
+src/apiserver/pkg/biz/mcp_helpers.go
+  703e3b61719acc6e 97,114,120-121,123,125,202,206-208,210-215,217-221,226,229,232,238,243,246-248,250
+  b2c16118024bea40 23,32,87-88,147
+  a8c423aa41307761 95-96,199,209,216,224-225,227-228,230-231,233-237,239-240
+src/apiserver/pkg/biz/proto.go
+  703e3b61719acc6e 71-73,101-114,122-125,151-153,164-169
+  b2c16118024bea40 74,115-121,154,170-173
+src/apiserver/pkg/apis/web/handler/service.go
+  703e3b61719acc6e 188,243
+  b2c16118024bea40 61-80,83,129-148,151
+src/apiserver/pkg/entity/model/consumer_group.go
+  h_9e143da0eb081a 89-91,100-106,111
+  b2c16118024bea40 88,99
+src/apiserver/pkg/entity/model/route.go
+  b2c16118024bea40 99,120
+  h_9e143da0eb081a 100-104,108-112,121-131,136,141
+src/apiserver/pkg/apis/common/resource_builder_test.go
+  a8c423aa41307761 59,65,82,88,98,133,136,147
+  b2c16118024bea40 1-58,60-64,66-81,83-87,89-97,99-132,134-135,137-146,148-166
+src/apiserver/pkg/entity/model/service_test.go
+  7bb27e58702f4b1e 28
+src/apiserver/pkg/apis/web/handler/upstream.go
+  b2c16118024bea40 61-80,83,127-146,148
+  703e3b61719acc6e 185,239
+src/apiserver/pkg/entity/model/proto_test.go
+  7bb27e58702f4b1e 29
+src/apiserver/pkg/apis/web/handler/stream_route.go
+  703e3b61719acc6e 176,271
+  b2c16118024bea40 59-67,69-81,84,129-137,139-146,148-153
+src/apiserver/pkg/apis/mcp/tools/resource_crud.go
+  b2c16118024bea40 29,291,302-304,306,312,361,371-374,382
+  a8c423aa41307761 384
+src/apiserver/pkg/entity/model/plugin_metadata_test.go
+  7bb27e58702f4b1e 27
+src/apiserver/pkg/apis/web/handler/plugin_config.go
+  703e3b61719acc6e 188,243
+  b2c16118024bea40 62-81,84,129-148,151
+src/apiserver/pkg/biz/route.go
+  703e3b61719acc6e 74-76,152-183,191-194,223-225,232-237
+  b2c16118024bea40 77,184-190,226,238-241
+src/apiserver/pkg/entity/model/global_rule_test.go
+  7bb27e58702f4b1e 27
+src/apiserver/pkg/entity/model/stream_route.go
+  h_9e143da0eb081a 95-106,115-124,129,134
+  b2c16118024bea40 94,114
+src/apiserver/pkg/entity/model/consumer.go
+  h_9e143da0eb081a 90-98,107-113,118,123
+  b2c16118024bea40 89,106
+src/apiserver/pkg/apis/web/handler/global_rule.go
+  703e3b61719acc6e 182,235
+  b2c16118024bea40 62-81,83,128-147,150
+src/apiserver/pkg/apis/common/resource_slz.go
+  a8c423aa41307761 356
+  b2c16118024bea40 343,355
+src/apiserver/pkg/entity/model/route_test.go
+  7bb27e58702f4b1e 31
+src/apiserver/pkg/apis/open/serializer/resource.go
+  b2c16118024bea40 72-82,84-87,89-91,94,96-101,171,183,185,187
+src/apiserver/pkg/biz/unify_op.go
+  b2c16118024bea40 43,920-971,1335
+  a8c423aa41307761 919,991,1012,1031,1050,1073,1092,1111,1130,1146,1165,1186
+src/apiserver/pkg/biz/publish_test.go
+  a8c423aa41307761 916
+src/apiserver/pkg/biz/mcp_helpers_test.go
+  a8c423aa41307761 219,247,297,341,354,361-367,384-388
+  b2c16118024bea40 183,187-217,360,403
+  703e3b61719acc6e 25-27,32-34,218,220-246,248-296,298-340,342-353,355-359,368-383,389-402,404-421
+src/apiserver/pkg/entity/model/sync_resource.go
+  b2c16118024bea40 43-48
+  a8c423aa41307761 51-53,63-64
+  703e3b61719acc6e 54-62,65-73
+src/apiserver/pkg/entity/model/upstream.go
+  h_9e143da0eb081a 78-86,95-101,106,111
+  b2c16118024bea40 77,94
+src/apiserver/pkg/entity/model/ssl.go
+  b2c16118024bea40 95-98,106-115,118
+src/apiserver/pkg/biz/global_rule.go
+  b2c16118024bea40 77,116-122,155,167-170
+  703e3b61719acc6e 74-76,102-115,123-126,152-154,161-166
+src/apiserver/pkg/apis/web/handler/plugin_metadata.go
+  703e3b61719acc6e 182,235
+  b2c16118024bea40 55-74,77,128-147,150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "af6868c5c468d6251836f91751f9b6319781206e",
+  "prompts": {
+    "15993bcec3a90fd0": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0af6da25-dac6-431c-ade9-d1cbe34c1462",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 4,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "2031e76200930f33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c3061448-4384-4774-ba40-80467bdb5291",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "703e3b61719acc6e": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "105a5e63-ce04-4a44-857f-0c953b53cd06",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 1004,
+      "total_deletions": 286,
+      "accepted_lines": 760,
+      "overriden_lines": 2
+    },
+    "7bb27e58702f4b1e": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dff9ae87-c966-4804-a305-5b5483793310",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 89,
+      "total_deletions": 14,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    },
+    "a8c423aa41307761": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "a52ac90d-bd39-469a-a7be-ef6ff35f41fc",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 92,
+      "total_deletions": 79,
+      "accepted_lines": 88,
+      "overriden_lines": 1
+    },
+    "b2c16118024bea40": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dccc6-0e8e-79c2-a0a5-6d1b8599c21a",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 1796,
+      "total_deletions": 1020,
+      "accepted_lines": 1560,
+      "overriden_lines": 0
+    },
+    "b8fc01de59a8d9c6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "5f37b4e0-8942-4f88-9545-c64d9fae1fa2",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 10,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
