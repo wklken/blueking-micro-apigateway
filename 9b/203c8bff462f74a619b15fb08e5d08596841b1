@@ -1,0 +1,34 @@
+src/apiserver/pkg/resourcecodec/stored.go
+  h_9e143da0eb081a 1-254
+src/apiserver/AGENTS.md
+  h_9e143da0eb081a 428,475
+src/apiserver/README.md
+  h_9e143da0eb081a 23,27
+src/apiserver/pkg/resourcecodec/openapi.go
+  h_9e143da0eb081a 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "9b203c8bff462f74a619b15fb08e5d08596841b1",
+  "prompts": {
+    "9dfb6876fa5edb0e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "517994d0-77ab-4ada-9e76-ca6acdfe39d3",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
