@@ -1,0 +1,26 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "cd61518c1c954bfa10386edfdc77b64533356147",
+  "prompts": {
+    "e842b1336d60a1bc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd2e3-73a6-73c2-84b7-5c13df5436ab",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
