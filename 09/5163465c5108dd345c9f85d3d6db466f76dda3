@@ -1,0 +1,36 @@
+src/apiserver/pkg/publisher/etcd_test.go
+  887ca746f57b3d25 512-521
+src/apiserver/pkg/biz/publish_payload_helpers.go
+  887ca746f57b3d25 79-83
+src/apiserver/pkg/biz/publish_test.go
+  887ca746f57b3d25 419-423
+src/apiserver/pkg/biz/publish_persist_helpers.go
+  887ca746f57b3d25 40-45
+src/apiserver/pkg/biz/publish_payload_helpers_test.go
+  887ca746f57b3d25 151-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "095163465c5108dd345c9f85d3d6db466f76dda3",
+  "prompts": {
+    "887ca746f57b3d25": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd328-40ec-7d83-b3e5-541c6721c87f",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 7,
+      "accepted_lines": 30,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
