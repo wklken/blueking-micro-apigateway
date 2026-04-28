@@ -1,0 +1,32 @@
+src/apiserver/pkg/biz/unify_op_sync_test.go
+  cd39be124386ec7e 35,546-595
+src/apiserver/pkg/biz/unify_op_sync_helpers.go
+  h_9e143da0eb081a 128-129
+src/apiserver/pkg/biz/unify_op.go
+  h_9e143da0eb081a 510-512,642,663,667,669
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "45b504d8dcf8e4abad2ee7563b1018950ba37429",
+  "prompts": {
+    "cd39be124386ec7e": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "b49f9561-722e-491d-a06c-d792738d033d",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 55,
+      "total_deletions": 8,
+      "accepted_lines": 53,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
