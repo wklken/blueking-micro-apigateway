@@ -1,0 +1,30 @@
+src/apiserver/pkg/apis/open/handler/resource_test.go
+  d1a81064ba0782ea 205-209,306
+src/apiserver/pkg/apis/open/serializer/open_resource_draft_helpers_test.go
+  d1a81064ba0782ea 126-130,136-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "61a7c66340e14a023c99a5f44426918f09599ce2",
+  "prompts": {
+    "d1a81064ba0782ea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd2b6-0226-7491-be25-260b2e5f142d",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 8,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
