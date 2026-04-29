@@ -1,0 +1,53 @@
+src/apiserver/pkg/apis/web/handler/unify_op.go
+  9a9aee6842cdb748 31,384-386,405,410,416-421,427,443-444,458,469,474-478,483
+src/apiserver/pkg/entity/dto/import_resource.go
+  9a9aee6842cdb748 1-54
+src/apiserver/pkg/biz/import_flow.go
+  9a9aee6842cdb748 19,31,36-38,43-51,54-58,60-63,84,99-212,235-237,242,260,275,329,354,356-357,359-361,363,370,376-377,383-389,391-412
+src/apiserver/pkg/biz/import_flow_test.go
+  9a9aee6842cdb748 19,31,36-167,178,180-182,223,225-227,268,270-271,283,315,317-318,327,339,341-342,354,364-367,370-373,375-380,385-388,390,447-454,473,488-495,499,529,564-565,577,595-596,606,635,640,643-644,646-649,661,670-692
+src/apiserver/pkg/biz/import_validation.go
+  9a9aee6842cdb748 1-128
+src/apiserver/pkg/apis/open/handler/resource.go
+  9a9aee6842cdb748 381,394,400,402,409
+src/apiserver/pkg/apis/open/serializer/resource.go
+  9a9aee6842cdb748 29,117-118,136,138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "24e3c771b5802970992ffb46db945c4cb9ce8667",
+  "prompts": {
+    "45ef27d3c4aa7343": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "840ca3aa-069d-46fc-bfc1-d46d5c8d58ce",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "9a9aee6842cdb748": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd845-82b3-7f73-9cea-f51e7dc8c73b",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 1333,
+      "total_deletions": 516,
+      "accepted_lines": 1330,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
