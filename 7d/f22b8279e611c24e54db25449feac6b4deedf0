@@ -1,0 +1,110 @@
+src/apiserver/pkg/apis/mcp/tools/sync.go
+  52900af40d95c689 204-205
+src/apiserver/pkg/apis/web/serializer/common.go
+  ccfb0d82b269dd38 65
+src/apiserver/pkg/apis/mcp/tools/resource_crud.go
+  h_9e143da0eb081a 296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "7df22b8279e611c24e54db25449feac6b4deedf0",
+  "prompts": {
+    "081fd3a14b1c7329": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e0aaffa9-eaf5-48f6-a67e-ce9af5d5677d",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "3968d36f33f250cd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd4ac-2809-7ff2-a5b0-1c1c9d8b763c",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 404,
+      "total_deletions": 356,
+      "accepted_lines": 359,
+      "overriden_lines": 0
+    },
+    "52900af40d95c689": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd75b-8102-7b51-8977-afb3e8489fdf",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 8,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "58925cefd67db5c4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd6e2-2d12-7641-9a96-f2514263496e",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 333,
+      "total_deletions": 1,
+      "accepted_lines": 332,
+      "overriden_lines": 0
+    },
+    "9b5e554f26104612": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd79e-4040-71f2-8081-9322f358eb66",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 69,
+      "total_deletions": 22,
+      "accepted_lines": 69,
+      "overriden_lines": 0
+    },
+    "b3d09044270337ef": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "802e3d0a-1699-4ba7-bc56-d7c57a3e4e16",
+        "model": "unknown"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 74846,
+      "total_deletions": 0,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    },
+    "ccfb0d82b269dd38": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd744-11d7-72e0-8c40-173d66003034",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 89,
+      "total_deletions": 131,
+      "accepted_lines": 88,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
