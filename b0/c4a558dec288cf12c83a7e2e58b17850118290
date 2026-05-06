@@ -1,0 +1,374 @@
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/078_invalid_3_13_0_ai-prompt-decorator_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/125_invalid_3_13_0_proxy-rewrite_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/018_invalid_3_11_0_consumer-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/149_invalid_3_13_0_prometheus_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/057_invalid_3_11_0_skywalking_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/064_invalid_3_11_0_uri-blocker_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/144_invalid_3_13_0_workflow_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/097_invalid_3_13_0_csrf_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/046_invalid_3_11_0_proxy-mirror_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/054_invalid_3_11_0_response-rewrite_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/00_gateways/02_create_gateway_3_13_0.bru
+  cd92b41b68229c22 1-39
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/001_invalid_3_11_0_hmac-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/019_invalid_3_11_0_csrf_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/087_invalid_3_13_0_attach-consumer-label_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/069_invalid_3_11_0_limit-conn_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/124_invalid_3_13_0_proxy-mirror_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/107_invalid_3_13_0_grpc-transcode_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/003_invalid_3_11_0_key-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/00_gateways/01_create_gateway_3_11_0.bru
+  cd92b41b68229c22 1-39
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/060_invalid_3_11_0_tcp-logger_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/134_invalid_3_13_0_serverless-pre-function_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/058_invalid_3_11_0_sls-logger_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/02_success_batches/04_success_3_13_0_consumer.bru
+  cd92b41b68229c22 1-82
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/072_invalid_3_11_0_syslog_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/085_invalid_3_13_0_ai-request-rewrite_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/093_invalid_3_13_0_cas-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/127_invalid_3_13_0_real-ip_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/022_invalid_3_11_0_echo_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/131_invalid_3_13_0_request-validation_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/139_invalid_3_13_0_traffic-split_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/092_invalid_3_13_0_body-transformer_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/130_invalid_3_13_0_request-id_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/079_invalid_3_13_0_ai-prompt-guard_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/120_invalid_3_13_0_opentelemetry_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/066_invalid_3_11_0_workflow_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/128_invalid_3_13_0_redirect_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/104_invalid_3_13_0_fault-injection_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/047_invalid_3_11_0_proxy-rewrite_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/006_invalid_3_11_0_ai-prompt-template_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/148_invalid_3_13_0_mqtt-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/051_invalid_3_11_0_referer-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/045_invalid_3_11_0_proxy-control_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/025_invalid_3_11_0_ext-plugin-pre-req_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/038_invalid_3_11_0_multi-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/133_invalid_3_13_0_serverless-post-function_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/115_invalid_3_13_0_mocking_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/063_invalid_3_11_0_udp-logger_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/026_invalid_3_11_0_fault-injection_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/113_invalid_3_13_0_limit-count_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/146_invalid_3_13_0_ip-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/114_invalid_3_13_0_limit-req_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/035_invalid_3_11_0_limit-count_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/106_invalid_3_13_0_google-cloud-logging_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/027_invalid_3_11_0_forward-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/071_invalid_3_11_0_prometheus_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/122_invalid_3_13_0_proxy-cache_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/032_invalid_3_11_0_http-dubbo_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/103_invalid_3_13_0_ext-plugin-pre-req_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/01_metadata_unsupported/02_plugin_metadata_unsupported_3_13_0.bru
+  cd92b41b68229c22 1-33
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/084_invalid_3_13_0_ai-rate-limiting_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/080_invalid_3_13_0_ai-prompt-template_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/028_invalid_3_11_0_google-cloud-logging_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/044_invalid_3_11_0_proxy-cache_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/118_invalid_3_13_0_openfunction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/081_invalid_3_13_0_ai-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/117_invalid_3_13_0_opa_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/043_invalid_3_11_0_openwhisk_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/136_invalid_3_13_0_sls-logger_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/053_invalid_3_11_0_request-validation_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/073_invalid_3_13_0_hmac-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/147_invalid_3_13_0_limit-conn_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/108_invalid_3_13_0_grpc-web_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/040_invalid_3_11_0_openfunction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/137_invalid_3_13_0_splunk-hec-logging_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/098_invalid_3_13_0_degraphql_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/049_invalid_3_11_0_real-ip_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/145_invalid_3_13_0_zipkin_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/061_invalid_3_11_0_traffic-split_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/102_invalid_3_13_0_ext-plugin-post-resp_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/002_invalid_3_11_0_jwt-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/009_invalid_3_11_0_attach-consumer-label_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/101_invalid_3_13_0_ext-plugin-post-req_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/070_invalid_3_11_0_mqtt-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/123_invalid_3_13_0_proxy-control_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/042_invalid_3_11_0_opentelemetry_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/110_invalid_3_13_0_http-dubbo_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/016_invalid_3_11_0_chaitin-waf_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/02_success_batches/02_success_3_11_0_http.bru
+  cd92b41b68229c22 1-2222
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/135_invalid_3_13_0_skywalking_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/041_invalid_3_11_0_openid-connect_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/109_invalid_3_13_0_gzip_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/048_invalid_3_11_0_public-api_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/004_invalid_3_11_0_ldap-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/013_invalid_3_11_0_basic-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/067_invalid_3_11_0_zipkin_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/068_invalid_3_11_0_ip-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/059_invalid_3_11_0_splunk-hec-logging_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/142_invalid_3_13_0_uri-blocker_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/091_invalid_3_13_0_basic-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/036_invalid_3_11_0_limit-req_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/132_invalid_3_13_0_response-rewrite_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/021_invalid_3_11_0_dubbo-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/02_success_batches/03_success_3_11_0_stream.bru
+  cd92b41b68229c22 1-112,140-167,169
+  0a203ea08aa79db5 113-139,168
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/037_invalid_3_11_0_mocking_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/030_invalid_3_11_0_grpc-web_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/052_invalid_3_11_0_request-id_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/121_invalid_3_13_0_openwhisk_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/150_invalid_3_13_0_syslog_root-wrong-type.bru
+  cd92b41b68229c22 1-49
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/086_invalid_3_13_0_api-breaker_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/008_invalid_3_11_0_api-breaker_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/094_invalid_3_13_0_chaitin-waf_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/023_invalid_3_11_0_ext-plugin-post-req_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/116_invalid_3_13_0_multi-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/02_success_batches/01_success_3_11_0_consumer.bru
+  cd92b41b68229c22 1-82
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/034_invalid_3_11_0_kafka-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/031_invalid_3_11_0_gzip_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/099_invalid_3_13_0_dubbo-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/024_invalid_3_11_0_ext-plugin-post-resp_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/055_invalid_3_11_0_serverless-post-function_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/065_invalid_3_11_0_wolf-rbac_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/011_invalid_3_11_0_authz-keycloak_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/077_invalid_3_13_0_ai-aws-content-moderation_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/029_invalid_3_11_0_grpc-transcode_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/02_success_batches/06_success_3_13_0_stream.bru
+  cd92b41b68229c22 1-112,140-167,169
+  0a203ea08aa79db5 113-139,168
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/056_invalid_3_11_0_serverless-pre-function_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/095_invalid_3_13_0_client-control_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/039_invalid_3_11_0_opa_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/082_invalid_3_13_0_ai-proxy-multi_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/062_invalid_3_11_0_ua-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/112_invalid_3_13_0_kafka-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/129_invalid_3_13_0_referer-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/005_invalid_3_11_0_ai-prompt-decorator_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/050_invalid_3_11_0_redirect_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/143_invalid_3_13_0_wolf-rbac_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/138_invalid_3_13_0_tcp-logger_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/088_invalid_3_13_0_authz-casdoor_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/017_invalid_3_11_0_client-control_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/111_invalid_3_13_0_jwe-decrypt_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/126_invalid_3_13_0_public-api_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/02_success_batches/05_success_3_13_0_http.bru
+  cd92b41b68229c22 1-2469
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/105_invalid_3_13_0_forward-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/141_invalid_3_13_0_udp-logger_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/007_invalid_3_11_0_ai-proxy_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/090_invalid_3_13_0_aws-lambda_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/01_metadata_unsupported/01_plugin_metadata_unsupported_3_11_0.bru
+  cd92b41b68229c22 1-33
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/140_invalid_3_13_0_ua-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/083_invalid_3_13_0_ai-rag_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/020_invalid_3_11_0_degraphql_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/076_invalid_3_13_0_ldap-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/010_invalid_3_11_0_authz-casdoor_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/100_invalid_3_13_0_echo_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/014_invalid_3_11_0_body-transformer_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/075_invalid_3_13_0_key-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/089_invalid_3_13_0_authz-keycloak_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/015_invalid_3_11_0_cas-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/096_invalid_3_13_0_consumer-restriction_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/074_invalid_3_13_0_jwt-auth_root-wrong-type.bru
+  cd92b41b68229c22 1-36
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/012_invalid_3_11_0_aws-lambda_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/033_invalid_3_11_0_jwe-decrypt_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+src/apiserver/tests/integration/openapi/plugin_matrix/03_invalid_cases/119_invalid_3_13_0_openid-connect_root-wrong-type.bru
+  cd92b41b68229c22 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "b0c4a558dec288cf12c83a7e2e58b17850118290",
+  "prompts": {
+    "0a203ea08aa79db5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfb5c-1792-7bd2-9985-34ceb3366b17",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 56,
+      "overriden_lines": 0
+    },
+    "6c924edfa4289fae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6362152d-ccad-4e3c-b62e-f16af4c5ed8d",
+        "model": "glm-5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "cd92b41b68229c22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dd9db-62cd-7bd2-b4e4-4178be850e58",
+        "model": "gpt-5.4"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 13128,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_9e143da0eb081a": {
+      "author": "wklken"
+    }
+  }
+}
