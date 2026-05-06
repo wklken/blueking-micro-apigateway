@@ -1,0 +1,23 @@
+src/apiserver/pkg/entity/model/upstream.go
+  35679f50a9e4ddf5 111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "d0fb816449c783823fdcfc3b5e73b9c90bb93773",
+  "prompts": {
+    "35679f50a9e4ddf5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfc88-f164-7ac1-a351-d51c217ea2cf",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 19,
+      "accepted_lines": 3358,
+      "overriden_lines": 0
+    }
+  }
+}
