@@ -1,0 +1,50 @@
+src/apiserver/pkg/biz/resourcevalidation/validation.go
+  35153527004b0dc3 1-122
+src/apiserver/pkg/apis/mcp/tools/resource_crud_test.go
+  35153527004b0dc3 151-170,234-259
+src/apiserver/pkg/apis/mcp/tools/schema.go
+  35153527004b0dc3 38,44,53,67,74
+src/apiserver/pkg/apis/mcp/tools/resource_crud.go
+  35153527004b0dc3 23,32,291-301,358-364
+src/apiserver/pkg/biz/resourcevalidation/validation_test.go
+  35153527004b0dc3 1-304
+src/apiserver/pkg/apis/mcp/tools/common.go
+  35153527004b0dc3 135,173
+src/apiserver/pkg/apis/mcp/resources/docs.go
+  35153527004b0dc3 537
+src/apiserver/pkg/apis/mcp/tools/common_test.go
+  35153527004b0dc3 154-159,185-187,306,342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "d576b68328dd0240f672a881e2a2d4949ecdcc5e",
+  "prompts": {
+    "35153527004b0dc3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 517,
+      "total_deletions": 19,
+      "accepted_lines": 517,
+      "overriden_lines": 0
+    },
+    "eebd580e3b9d0f25": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd07-226e-7e72-8c36-1febf0d78b1f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3676,
+      "overriden_lines": 0
+    }
+  }
+}
