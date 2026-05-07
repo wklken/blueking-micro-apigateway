@@ -1,0 +1,41 @@
+src/apiserver/pkg/utils/schema/3.11/schema.json
+  s_04522034c2b147::t_5ede41ae24beef 7723,7733,7750
+src/apiserver/pkg/apis/web/handler/unify_op_test.go
+  s_de18a237514473::t_4fe9ff0f9b7ac5 1-30,32-41,44-45
+  s_04522034c2b147::t_bd7052e3a365ed 31,42-43
+src/apiserver/pkg/utils/schema/plugin_test.go
+  s_04522034c2b147::t_5ede41ae24beef 174-212
+src/apiserver/pkg/apis/web/handler/unify_op.go
+  s_de18a237514473::t_4fd4ffb4bd207f 25
+  s_de18a237514473::t_5fa84d30116216 182,186-188,195
+  s_04522034c2b147::t_bd7052e3a365ed 183-185,208-209
+src/frontend/src/components/table-resource-list.vue
+  s_de18a237514473::t_cf7f093dca69e4 312,366
+  s_de18a237514473::t_896373db8a6d4c 248
+src/apiserver/pkg/utils/schema/3.13/schema.json
+  s_04522034c2b147::t_5ede41ae24beef 6054,6059,6123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "fcd7e8006a43de5a2a26f387bedecd73eb417795",
+  "prompts": {},
+  "sessions": {
+    "s_04522034c2b147": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e023f-7fba-7f52-8c0e-624bcbdc6a9f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    },
+    "s_de18a237514473": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e0237-f4b0-7052-8fcc-dd344fce499f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
