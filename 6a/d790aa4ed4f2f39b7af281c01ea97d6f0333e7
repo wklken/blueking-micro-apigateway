@@ -1,0 +1,25 @@
+src/apiserver/pkg/biz/resourcevalidation/prepare_payload.go
+  s_4929cbe0c0b2ec::t_44914b7bf6b563 92-96
+src/apiserver/pkg/apis/web/serializer/common_test.go
+  s_4929cbe0c0b2ec::t_686150269f61d2 22
+  s_4929cbe0c0b2ec::t_366893cddcd0d0 212-214,220-233
+  s_4929cbe0c0b2ec::t_12056aef72afea 33,215-219
+src/apiserver/pkg/biz/resourcevalidation/prepare_payload_test.go
+  s_4929cbe0c0b2ec::t_6e0b36b0c437dd 355-362
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "6ad790aa4ed4f2f39b7af281c01ea97d6f0333e7",
+  "prompts": {},
+  "sessions": {
+    "s_4929cbe0c0b2ec": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e01d3-6475-7a32-a6d7-1297cfef0144",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
