@@ -1,0 +1,26 @@
+src/apiserver/pkg/middleware/openapi_resource_check_test.go
+  s_35153527004b0d::t_db23c010cb7425 34,43,47,82,87-88,195-226
+src/apiserver/pkg/middleware/openapi_resource_check.go
+  s_35153527004b0d::t_a3ec4fccb5e3a1 25,130-138,140-141,144-157,161-162,180-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "18d566de741fc35c5ef27cecc97e8faa11c474f1",
+  "prompts": {},
+  "humans": {
+    "h_2ed7cc0c587d3d": {
+      "author": "wklken <wklken@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
