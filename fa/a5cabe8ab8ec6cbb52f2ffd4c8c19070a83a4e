@@ -1,0 +1,45 @@
+src/apiserver/pkg/apis/mcp/tools/mcp_resource_validation_test.go
+  s_35153527004b0d::t_76ee630e5584f0 19,30,35,39,41,46,48-53,63,68-77,81-86,89-92,120
+  s_35153527004b0d::t_14b3e8eeb07f4d 95-97,103,107,112-117,121-125,128
+src/apiserver/pkg/biz/resourcevalidation/validator.go
+  s_35153527004b0d::t_40c950f86deedb 46,51-57
+  s_35153527004b0d::t_8a37564e00764f 1-18,20-23,25-45,47,50,58,61-70,76-77,79-81
+  s_35153527004b0d::t_641913990da9ca 19
+  s_35153527004b0d::t_3e3f271e58dbb3 24,48-49,59-60,71-75,78
+src/apiserver/pkg/middleware/openapi_resource_check.go
+  s_35153527004b0d::t_ceaac44ee96f1c 143,167-168
+src/apiserver/pkg/biz/resourcevalidation/validator_test.go
+  s_35153527004b0d::t_99c17dc865da48 33-43,186,189,193,195-199,211,235,263-265,282,286
+src/apiserver/pkg/apis/mcp/tools/resource_crud.go
+  s_35153527004b0d::t_173c01242d05e1 300-305,376-381
+src/apiserver/pkg/biz/resourcevalidation/prepare_payload.go
+  h_2ed7cc0c587d3d 137-138,157-158,165-166,179,185,215-217
+src/apiserver/pkg/apis/mcp/tools/mcp_resource_validation.go
+  s_35153527004b0d::t_6b5b5b402d91c6 19,26,31-36,41-44,50-51
+  s_35153527004b0d::t_b3a537da8dfe0a 48
+src/apiserver/pkg/biz/importflow/validation.go
+  s_35153527004b0d::t_3339c02fa52e25 59
+src/apiserver/pkg/apis/web/serializer/common.go
+  s_35153527004b0d::t_53c05368521251 88-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "faa5cabe8ab8ec6cbb52f2ffd4c8c19070a83a4e",
+  "prompts": {},
+  "humans": {
+    "h_2ed7cc0c587d3d": {
+      "author": "wklken <wklken@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
