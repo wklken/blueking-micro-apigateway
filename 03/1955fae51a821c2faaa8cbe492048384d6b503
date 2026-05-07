@@ -1,0 +1,19 @@
+src/apiserver/pkg/biz/resourcevalidation/prepare_payload_test.go
+  s_35153527004b0d::t_f8b1646396289c 137,151-171,183-192,206-248,250-260,346-363,373-391,403-412,455,459,464,468-486,491,495-504,509,513,518,522-558,563,567-576,585,593
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "031955fae51a821c2faaa8cbe492048384d6b503",
+  "prompts": {},
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
