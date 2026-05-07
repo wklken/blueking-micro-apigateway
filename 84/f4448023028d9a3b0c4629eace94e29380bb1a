@@ -1,0 +1,26 @@
+src/apiserver/pkg/apis/web/serializer/common.go
+  s_35153527004b0d::t_778242d115bac0 24,77,85,88-95
+src/apiserver/pkg/apis/web/serializer/common_test.go
+  s_35153527004b0d::t_fe38cc03ec5a01 28,32,62-72,76-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "84f4448023028d9a3b0c4629eace94e29380bb1a",
+  "prompts": {},
+  "humans": {
+    "h_2ed7cc0c587d3d": {
+      "author": "wklken <wklken@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
