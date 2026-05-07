@@ -1,0 +1,28 @@
+src/apiserver/pkg/biz/importflow/validation.go
+  s_35153527004b0d::t_c58db712b874ef 68-72
+src/apiserver/pkg/middleware/openapi_resource_check.go
+  s_35153527004b0d::t_c58db712b874ef 185-188
+src/apiserver/pkg/biz/importflow/flow_test.go
+  s_35153527004b0d::t_c58db712b874ef 460-464
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "90902a3cdc951bd291f2696e8ccf251eb2cb4bd6",
+  "prompts": {},
+  "humans": {
+    "h_2ed7cc0c587d3d": {
+      "author": "wklken <wklken@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
