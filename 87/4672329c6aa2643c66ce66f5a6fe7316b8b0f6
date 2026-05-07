@@ -1,0 +1,21 @@
+src/frontend/src/views/consumer/create.vue
+  s_63e174e347f05a::t_2a5b2546251e75 82,206-221,223-225,227-234
+src/frontend/src/views/consumer-group/create.vue
+  s_63e174e347f05a::t_758422a9f161e6 78,206-219,221-223,225-232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "874672329c6aa2643c66ce66f5a6fe7316b8b0f6",
+  "prompts": {},
+  "sessions": {
+    "s_63e174e347f05a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e01e4-e51e-7330-be54-467df60a5f70",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
