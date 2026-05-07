@@ -1,0 +1,28 @@
+src/apiserver/pkg/biz/resourcevalidation/validation.go
+  s_35153527004b0d::t_393b211d1e11b9 47,49,55,63,72
+src/apiserver/pkg/biz/resourcevalidation/database_payload_validator_test.go
+  s_35153527004b0d::t_fb9045f58feccf 1-280
+src/apiserver/pkg/biz/resourcevalidation/database_payload_validator.go
+  s_35153527004b0d::t_dd2a2bd24d8dd8 1-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "6c8d4ce1ff140e7949a803bdfa3c0487831a4214",
+  "prompts": {},
+  "humans": {
+    "h_2ed7cc0c587d3d": {
+      "author": "wklken <wklken@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
