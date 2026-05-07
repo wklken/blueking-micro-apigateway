@@ -1,0 +1,79 @@
+src/apiserver/pkg/biz/importflow/validation.go
+  s_35153527004b0d::t_59d552de439f9e 63
+  s_35153527004b0d::t_b5c64243f13550 26
+  s_35153527004b0d::t_f291b3de4e1923 65-66
+src/apiserver/pkg/middleware/openapi_resource_check.go
+  s_35153527004b0d::t_bb415ffa8ee17d 36
+  s_35153527004b0d::t_49c9a3bb8caa00 142
+  s_35153527004b0d::t_2c25d9749e506d 144
+src/apiserver/pkg/biz/resourcevalidation/prepare_payload_test.go
+  s_35153527004b0d::t_046d9a33beca19 22,31-75,77-80
+  s_35153527004b0d::t_185ef4575c4192 258-275,404-448
+  s_35153527004b0d::t_6f81b194bed2b8 183-230,232-241,243-251,253-257,276-278,280-289,291-298,300-321,449-495
+  s_35153527004b0d::t_14a55598860585 76
+  s_35153527004b0d::t_55c17905b878c5 115
+  s_35153527004b0d::t_bccd542fb4e8fd 171-182
+  s_35153527004b0d::t_00fff0af810ed7 231,242,252,279,290,299
+  s_35153527004b0d::t_dd9d59a31d5bad 82-114,116-121
+  s_35153527004b0d::t_ca618fede27454 19,81,170,322-329,331-337,339-348,350-358,360-369,371-381,383-390,392-394,397-402,496-498
+  s_35153527004b0d::t_7e4b4b4aa2e1b8 165,330,338,349,359,370,382,391,395-396,403
+src/apiserver/pkg/apis/mcp/tools/resource_crud.go
+  s_35153527004b0d::t_ac3bb29b86c8f6 291,294-299,301-304,367,370-375,377-380
+  s_35153527004b0d::t_8b35c502820c52 290,366
+  s_35153527004b0d::t_c551de5ec04d29 292-293,368-369
+src/apiserver/pkg/biz/resourcevalidation/validation.go
+  s_35153527004b0d::t_717df2c3c40f82 32,34-37,42-45,55,74
+src/apiserver/pkg/biz/resourcevalidation/validation_test.go
+  s_35153527004b0d::t_3904479cfd4075 55-58,68-71,80-90,92-94,96-97,99-104,106-107,109-111,133-136,231,251
+  s_35153527004b0d::t_7e7aecfcdf4ce2 205-208
+src/apiserver/pkg/biz/resourcevalidation/prepare_payload.go
+  s_35153527004b0d::t_8df619b3872d82 55-60,62-63
+  s_35153527004b0d::t_673098b711dc31 34,96
+  s_35153527004b0d::t_79b5248e324d8d 64-67,69-72,74-75,77-95,115-116,136-142,184
+  s_35153527004b0d::t_e9b2fd46a5eefd 36,42,47,49,98,100,106,108,110,148,150,153-154,156-157,160-161,167-168,185,189
+  s_35153527004b0d::t_2417042d9302f3 46,73,107,145,147
+  s_35153527004b0d::t_3c5bb3ef6e324a 1-33,35,37-40,43-45,48,50-51,53-54,97,99,101-103,109,111-114,117-134,182-183,186-188,190
+  s_35153527004b0d::t_917084456c45c7 68,76
+  s_35153527004b0d::t_38792d909925a5 52,61,135,164-165
+  s_35153527004b0d::t_8aae1477c6ee06 143-144,146,149,151-152,155,158-159
+  s_35153527004b0d::t_c5e15742d7c036 162-163,166,169-181
+  h_2ed7cc0c587d3d 41,104-105
+src/apiserver/pkg/apis/web/serializer/common.go
+  s_35153527004b0d::t_37654f244e574e 61-63,65-68
+  s_35153527004b0d::t_f7d849eb4292cf 28
+  s_35153527004b0d::t_881f1fcf767fa6 64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "f547920a3ca3b55e4e675b8f118bb771c17d5467",
+  "prompts": {
+    "35153527004b0dc3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_2ed7cc0c587d3d": {
+      "author": "wklken <wklken@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_35153527004b0d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dfd8d-74f6-7132-b49f-faaa3494c5a7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
