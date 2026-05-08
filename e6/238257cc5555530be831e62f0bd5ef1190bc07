@@ -1,0 +1,19 @@
+src/frontend/src/components/table-resource-list.vue
+  s_d673f31a9499ec::t_36c992e8d06b29 248,312,366
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "e6238257cc5555530be831e62f0bd5ef1190bc07",
+  "prompts": {},
+  "sessions": {
+    "s_d673f31a9499ec": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e0539-b9b4-7a33-baf9-f50e9cd02bfd",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
