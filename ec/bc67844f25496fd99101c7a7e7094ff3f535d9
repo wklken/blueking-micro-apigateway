@@ -1,0 +1,23 @@
+src/frontend/src/views/plugin-custom/plugin-custom.vue
+  s_d673f31a9499ec::t_4c379c1dafe3bb 28
+src/frontend/src/components/table-resource-list.vue
+  s_d673f31a9499ec::t_1eac6e0ac4e5bb 369-370
+  s_d673f31a9499ec::t_27f28dd9556f33 204,254
+  s_d673f31a9499ec::t_925697e623277f 371
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "ecbc67844f25496fd99101c7a7e7094ff3f535d9",
+  "prompts": {},
+  "sessions": {
+    "s_d673f31a9499ec": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e0539-b9b4-7a33-baf9-f50e9cd02bfd",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
