@@ -1,0 +1,35 @@
+src/apiserver/pkg/utils/schema/plugin_test.go
+  s_d938ce32474578::t_992b0e1059c458 221-226,229-239,241,243-248
+  s_b2bae1e273f1d4::t_8c4d4406f4e539 174-220
+  s_d938ce32474578::t_a6a0821a82351c 227-228,240,242,249-251
+src/apiserver/pkg/utils/schema/3.13/schema.json
+  s_d938ce32474578::t_debee650e63892 8415-8418
+src/apiserver/pkg/utils/schema/3.11/plugin.json
+  s_b2bae1e273f1d4::t_98428aceb51670 530-533
+src/apiserver/pkg/utils/schema/3.13/plugin.json
+  s_b2bae1e273f1d4::t_98428aceb51670 639-642
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "06ab0c30f9353533994660edd1fc1fabdb6f16fd",
+  "prompts": {},
+  "sessions": {
+    "s_b2bae1e273f1d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e0ae2-7373-7ab2-8525-ccef96da71ad",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    },
+    "s_d938ce32474578": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e0aa9-1aa2-7fa1-8799-cb7cc22f8a64",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
