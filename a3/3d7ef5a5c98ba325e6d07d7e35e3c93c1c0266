@@ -1,0 +1,19 @@
+src/apiserver/go.mod
+  s_c14aa0330bfa61::t_e14a9876d0b0b8 54,58-59,89,163,165,175,177,182-184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "a33d7ef5a5c98ba325e6d07d7e35e3c93c1c0266",
+  "prompts": {},
+  "sessions": {
+    "s_c14aa0330bfa61": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1512-34d0-7980-9baf-db19dae964ad",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
