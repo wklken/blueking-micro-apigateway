@@ -1,0 +1,19 @@
+src/frontend/package.json
+  s_f7e526ec4ae333::t_8a3286d646c86c 44,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "c542abb27a3fe2899b573f7090728fa81689363c",
+  "prompts": {},
+  "sessions": {
+    "s_f7e526ec4ae333": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1532-bc66-7233-a70d-85c1d7d41cf0",
+        "model": "gpt-5.5"
+      },
+      "human_author": "wklken <wklken@gmail.com>"
+    }
+  }
+}
